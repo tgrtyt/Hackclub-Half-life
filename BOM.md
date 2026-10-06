@@ -13,11 +13,10 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [ESP32-C3 XIAO Seeed Studio](https://www.electrokit.com/en/seeed-studio-xiao-esp32c3) | Main computer. connected to the buttons and sensors. Controlling the screen | 1 | $10.85 | $10.85 | [electro:kit](https://www.electrokit.com/en/seeed-studio-xiao-esp32c3) |
-| [6-axlis IMU accelerometer and gyro MPU6050 - I2C](https://www.electrokit.com/en/mpu-6050-accelerometer-3-axel-gyro-monterad-pa-kort) | Sensing movement and tilt | 1 | $7.16 | $7.16 | [electro:kit](https://www.electrokit.com/en/mpu-6050-accelerometer-3-axel-gyro-monterad-pa-kort) |
 | [Cherry MX blue switch](https://www.electrokit.com/en/cherry-mx-blue-switch) | Interacting witch the menues | 2 | $1.95 | $3.90 | [electro:kit](https://www.electrokit.com/en/cherry-mx-blue-switch) |
 | [Motstånd kolfilm 0.25W 10kohm (10k)](https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k) | A resistor for the environment sensor | 1 | $0.10 | $0.10 | [electro:kit](https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k) |
-| **Parts subtotal** | — | — | — | **$22.01** | — |
+| **Parts subtotal** | — | — | — | **$14.85** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.01** | — |
+| **Total** | — | — | — | **$14.85** | — |
 
-$7.99 left of the tier's funding.
+$15.15 left of the tier's funding.
