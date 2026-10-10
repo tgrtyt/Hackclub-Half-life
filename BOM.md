@@ -18,7 +18,7 @@
 | [Temp/moist sensor DHT11](https://www.electrokit.com/en/temp/fuktsensor-dht11) | For sensing environment conditions like temp and humidity | 1 | $3.92 | $3.92 | [electro:kit](https://www.electrokit.com/en/temp/fuktsensor-dht11) |
 | [6-axlis IMU accelerometer and gyro MPU6050 - I2C](https://www.electrokit.com/en/mpu-6050-accelerometer-3-axel-gyro-monterad-pa-kort) | For sensing tilt and acceleration | 1 | $7.23 | $7.23 | [electro:kit](https://www.electrokit.com/en/mpu-6050-accelerometer-3-axel-gyro-monterad-pa-kort) |
 | **Parts subtotal** | — | — | — | **$26.90** | — |
-| **Tax & shipping** | — | — | — | **$9.61** | — |
-| **Total** | — | — | — | **$36.51** | — |
+| **Tax & shipping** | — | — | — | **$3.47** | — |
+| **Total** | — | — | — | **$30.37** | — |
 
-**$6.51 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.37 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
