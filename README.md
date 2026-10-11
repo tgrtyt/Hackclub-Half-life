@@ -1,0 +1,1 @@
+I am building the tutorial starbie in order to learn more about PCB destign and building. I'm build ing my starbie in the shape of a< controller. <img width="947" height="644" alt="Screenshot 2026-10-11 150457" src="https://github.com/user-attachments/assets/1950006d-4c2d-46c2-ac74-049ac98b3cca" />
