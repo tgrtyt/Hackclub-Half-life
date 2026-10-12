@@ -8,7 +8,7 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 1 | $30.00 |
+| Week 1 | Tier 2 | $65.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@
 | [0.96" I2C OLED white](https://sizable.se/product/1081/0.96-I2C-OLED-Vit) | For displaying the tamagoci, stats and menues | 1 | $5.70 | $5.70 | [sizable](https://sizable.se/product/1081/0.96-I2C-OLED-Vit) |
 | [PCB](https://jlcpcb.com) | For connecting and holding all the components | 1 | $5.20 | $5.20 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$37.80** | — |
-| **Tax & shipping** | — | — | — | **$18.38** | — |
-| **Total** | — | — | — | **$56.18** | — |
+| **Tax & shipping** | — | — | — | **$5.52** | — |
+| **Total** | — | — | — | **$43.32** | — |
 
-**$26.18 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$21.68 left of the tier's funding.

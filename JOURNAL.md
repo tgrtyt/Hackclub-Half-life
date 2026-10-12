@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy. The reason i have changed it from a starter project is bacause the BOM is impossible to get under 30$ when you live in sweden
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.43h | 8 |
+| Week 1 | Tier 2 | 13.43h | 8 |
 
 ## Contents
 
