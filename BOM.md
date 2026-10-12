@@ -20,7 +20,7 @@
 | [0.96" I2C OLED white](https://sizable.se/product/1081/0.96-I2C-OLED-Vit) | For displaying the tamagoci, stats and menues | 1 | $5.70 | $5.70 | [sizable](https://sizable.se/product/1081/0.96-I2C-OLED-Vit) |
 | [PCB](https://jlcpcb.com) | For connecting and holding all the components | 1 | $5.20 | $5.20 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$37.80** | — |
-| **Tax & shipping** | — | — | — | **$3.47** | — |
-| **Total** | — | — | — | **$41.27** | — |
+| **Tax & shipping** | — | — | — | **$18.38** | — |
+| **Total** | — | — | — | **$56.18** | — |
 
-**$11.27 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$26.18 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
