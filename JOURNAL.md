@@ -85,4 +85,4 @@ I put together the entire BOM but it's way over the 30$ limit for the starbie pr
 
 ![Screenshot 2026-10-12 022244](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/d38adj3WWST4MNGi9sKysMqh8IDx0KR8/37259c5102c9a8f6aa47a3e08032c96ae54486f313052ef39faae0d63769f9d6.png)
 
-![Screenshot 2026-10-12 022303](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/d38adj3WWST4MNGi9sKysMqh8IDx0KR8/eba009d374f996c4cd4f8c02192cb2c1a0fc37e37e0a4f418589a2c5c4659211.png)
+![image_2026-10-12_022743412](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/d38adj3WWST4MNGi9sKysMqh8IDx0KR8/6cd1e01e897c0215fcdf00a13aea17e0491686fb483874ef434b009909f6f3e5.png)
