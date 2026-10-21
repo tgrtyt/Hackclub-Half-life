@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T00:23:42.968Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvnjqzg00xq01o99iam38dw). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy. The reason i have changed it from a starter project is bacause the BOM is impossible to get under 30$ when you live in sweden
 
